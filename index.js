@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var visibility = require('visibility')
+var visibility = require('yields-visibility')
 
 /**
  * Listen for events.

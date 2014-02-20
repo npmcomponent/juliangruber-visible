@@ -1,0 +1,11 @@
+{
+  "name": "juliangruber-visible",
+  "description": "Check if the page is currently visible",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "yields-visibility": "git://github.com/npmcomponent/yields-visibility.git"
+  },
+  "license": "MIT"
+}
